@@ -23,7 +23,7 @@ then read em in this order:
 
 stuff where seeing the actual circuit/grouping is way better than text is in [`WATCH_THESE.md`](WATCH_THESE.md).
 
-once u finish a topic, use [`PRACTICE_QUESTIONS.md`](PRACTICE_QUESTIONS.md). starred questions are the minimum set if ur short on time.
+once u finish a topic, use [`PRACTICE_QUESTIONS.md`](PRACTICE_QUESTIONS.md). it has starred minimum questions plus a prioritized **what to revise if u have time left** section.
 
 ## fastest revision order
 

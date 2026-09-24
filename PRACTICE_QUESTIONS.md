@@ -177,6 +177,55 @@ After finishing chapter-wise practice, attempt this in one sitting without notes
 
 Mark every mistake by type: **concept**, **formula**, **careless calculation**, or **ran out of time**. Revise the type that repeats most.
 
-# about part b
+# b. stuff to read/revise if u have time left
 
-u forgot what part **b** was—that's fine. tell me whenever u remember and it can be added here or made into its own file.
+Do this only after the starred questions. Go from top to bottom—the list is ordered by exam value.
+
+## if u have only 15–20 minutes
+
+- [ ] Memorize the Boolean laws and De Morgan rules in `bool/boolean-cheatsheet.md`.
+- [ ] Revise the SOP/POS literal rules in `minimization/kmap.md`—especially that POS uses the opposite literal rule.
+- [ ] Rewrite the SR, JK, D and T characteristic/excitation tables from `sequential/flip-flops.md`.
+- [ ] Memorize half/full-adder and half/full-subtractor equations from `combinational/binary-adder-subtractor.md`.
+- [ ] Revise BCD correction: add `0110` when carry occurs or the 4-bit result is above 9.
+- [ ] Revise: n flip-flops give `2^n` binary-counter states, n ring states and `2n` Johnson states.
+
+## if u have another 30–45 minutes
+
+- [ ] Recheck base-conversion shortcuts, fixed-width complements, and how a negative complement-subtraction answer is found.
+- [ ] Revise K-map edge wrapping, corner groups, overlap and don't-cares.
+- [ ] Read the tabulation procedure once: grouping → combining → prime implicants → PI chart.
+- [ ] Recheck the difference between encoder/decoder/MUX/DEMUX and one application of each.
+- [ ] Revise the general code-converter method: truth table → don't-cares → one K-map per output.
+- [ ] Recheck BCD subtraction using both 9's and 10's complements.
+- [ ] Compare synchronous and asynchronous counters, including speed and propagation delay.
+- [ ] Revise the standard flip-flop-conversion procedure rather than memorizing every conversion separately.
+
+## if u have 1–2 hours
+
+These are useful but come after the main syllabus basics:
+
+- [ ] Practice implementing a Boolean function using a MUX and then using a decoder.
+- [ ] Revise NAND-only and NOR-only circuit implementation.
+- [ ] Read about active-high versus active-low inputs and learn what bubbles on circuit symbols mean.
+- [ ] Revise signed 2's-complement overflow: carry into MSB XOR carry out of MSB.
+- [ ] Revise JK race-around and master-slave/edge-triggered solutions.
+- [ ] Read universal shift-register operations: hold, shift left, shift right and parallel load.
+- [ ] Check unused counter states and why a counter should be self-starting.
+- [ ] Practice deriving—not only memorizing—a 2-bit comparator and 4-to-2 priority encoder.
+- [ ] Watch the recommended visual topics in `WATCH_THESE.md`, focusing only on ones u still cannot solve.
+
+## final five-minute scan before the exam
+
+- [ ] SOP groups 1s; POS groups 0s.
+- [ ] Minterm uses a 1-row; maxterm uses a 0-row.
+- [ ] MUX = many-to-one; DEMUX = one-to-many.
+- [ ] A decoder has n inputs and up to `2^n` outputs.
+- [ ] Half circuits have no carry/borrow input; full circuits do.
+- [ ] D stores the input; T toggles when T=1; JK toggles at J=K=1; SR has invalid S=R=1.
+- [ ] Asynchronous counter clocks ripple; synchronous counter flip-flops share one clock.
+- [ ] Ring feedback is direct; Johnson feedback is complemented.
+
+## dont start these at the last minute
+
+Avoid new off-syllabus material such as RTL design, state-machine design, Mealy/Moore machines, ASM charts and programmable logic devices. Also do not spend your final time on binary multiplication/division or octal/hex arithmetic unless your teacher separately asked for them.
