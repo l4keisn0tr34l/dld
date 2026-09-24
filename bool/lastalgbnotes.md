@@ -19,3 +19,7 @@ bas baaki ek distributive law lagaya hai:
 sumn like this.. thats all
 
 ## fianlly for all min/maxterms= 2^n where n is no. of terms and also all logical expressions = 2^2^n
+
+dual form:
+
+![alt text](image.png)
