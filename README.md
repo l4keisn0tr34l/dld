@@ -23,6 +23,8 @@ then read em in this order:
 
 stuff where seeing the actual circuit/grouping is way better than text is in [`WATCH_THESE.md`](WATCH_THESE.md).
 
+once u finish a topic, use [`PRACTICE_QUESTIONS.md`](PRACTICE_QUESTIONS.md). starred questions are the minimum set if ur short on time.
+
 ## fastest revision order
 
 **number systems → boolean → K-map → combinational circuits → flip-flops → counters/registers**
