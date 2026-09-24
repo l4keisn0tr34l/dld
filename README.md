@@ -25,6 +25,8 @@ stuff where seeing the actual circuit/grouping is way better than text is in [`W
 
 once u finish a topic, use [`PRACTICE_QUESTIONS.md`](PRACTICE_QUESTIONS.md). it has starred minimum questions plus a prioritized **what to revise if u have time left** section.
 
+for a timed paper matching last year's style, use [`LAST_YEAR_STYLE_PRACTICE.md`](LAST_YEAR_STYLE_PRACTICE.md). do Mock Paper A first; it is designed for a 90-minute attempt.
+
 ## fastest revision order
 
 **number systems → boolean → K-map → combinational circuits → flip-flops → counters/registers**
