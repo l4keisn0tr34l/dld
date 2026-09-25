@@ -29,6 +29,8 @@ track every syllabus topic and subtopic in [`STUDY_CHECKLIST.md`](STUDY_CHECKLIS
 
 for a timed paper matching last year's style, use [`LAST_YEAR_STYLE_PRACTICE.md`](LAST_YEAR_STYLE_PRACTICE.md). do Mock Paper A first; it is designed for a 90-minute attempt.
 
+answers and methods for the chapter questions, both mock papers and backup questions are in [`SOLUTION_KIT.md`](SOLUTION_KIT.md). try to plan each answer before opening it.
+
 ## fastest revision order
 
 **number systems → boolean → K-map → combinational circuits → flip-flops → counters/registers**
