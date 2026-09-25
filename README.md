@@ -33,6 +33,8 @@ answers and methods for the chapter questions, both mock papers and backup quest
 
 labelled web-sourced circuit pictures for the topics through flip-flops are in [`CIRCUIT_DIAGRAMS.md`](CIRCUIT_DIAGRAMS.md).
 
+for the trip to uni and the final minutes before the exam, open the [`revision/`](revision/README.md) pack. it has a simple full recap, formula sheet and five-minute mistake scan.
+
 ## fastest revision order
 
 **number systems → boolean → K-map → combinational circuits → flip-flops → counters/registers**
