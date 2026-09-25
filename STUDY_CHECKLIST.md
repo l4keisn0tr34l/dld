@@ -2,7 +2,7 @@
 
 Tick a topic only when u can explain the rule and solve at least one basic question without notes.
 
-**Current status:** topics 1–4 and BCD adder/subtractor are completed; topics 5–8 are mostly done; flip-flops are next. Current cram plan skips registers/counters and stops after flip-flops.
+**Current status:** topics 1–4, BCD adder/subtractor and flip-flop conversion are completed; topics 5–8 are mostly done; D/T flip-flops, equations and excitation tables are done. Finish SR/JK basics next. Current cram plan skips registers/counters.
 
 # 1. number systems, codes and complements ✅
 
@@ -132,10 +132,10 @@ Tick a topic only when u can explain the rule and solve at least one basic quest
 - [ ] Meaning of clock, present state and next state
 - [ ] SR truth/characteristic table and invalid state
 - [ ] JK truth/characteristic table
-- [ ] D truth/characteristic table
-- [ ] T truth/characteristic table
-- [ ] Characteristic equations
-- [ ] Combined excitation table
+- [x] D truth/characteristic table
+- [x] T truth/characteristic table
+- [x] Characteristic equations
+- [x] Combined excitation table
 - [ ] Preset and clear
 - [ ] Level-triggered versus edge-triggered operation
 - [ ] JK race-around and its solutions
@@ -185,15 +185,15 @@ Tick a topic only when u can explain the rule and solve at least one basic quest
 
 # 14. conversion of flip-flops
 
-- [ ] Meaning of available FF versus desired FF
-- [ ] General conversion-table procedure
-- [ ] JK → D
-- [ ] JK → T
-- [ ] D → JK
-- [ ] D → T
-- [ ] T → D
-- [ ] SR → D
-- [ ] At least one conversion derived using a K-map
+- [x] Meaning of available FF versus desired FF
+- [x] General conversion-table procedure
+- [x] JK → D
+- [x] JK → T
+- [x] D → JK
+- [x] D → T
+- [x] T → D
+- [x] SR → D
+- [x] At least one conversion derived using a K-map
 - [ ] Final practice question completed
 
 # possible extra: FSM — only if officially confirmed
