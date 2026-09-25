@@ -2,7 +2,7 @@
 
 Tick a topic only when u can explain the rule and solve at least one basic question without notes.
 
-**Current status:** topics 1–4 are completed; topic 5 is almost done; topics 6–8 are partially/mostly done; topics 9–14 still need coverage.
+**Current status:** topics 1–4 and BCD adder/subtractor are completed; topics 5–8 are mostly done; flip-flops are next. Current cram plan skips registers/counters and stops after flip-flops.
 
 # 1. number systems, codes and complements ✅
 
@@ -83,9 +83,9 @@ Tick a topic only when u can explain the rule and solve at least one basic quest
 - [x] General design procedure: truth table → K-maps → circuit
 - [x] BCD-to-Excess-3 converter
 - [x] Excess-3-to-BCD converter
-- [ ] Binary-to-Gray converter
-- [ ] Gray-to-binary converter
-- [ ] Detecting odd/even values from binary or Gray-code input
+- [x] Binary-to-Gray converter
+- [x] Gray-to-binary converter
+- [x] Detecting odd/even values from binary or Gray-code input
 - [x] 4-bit binary-to-BCD converter
 - [ ] Using invalid code words as don't-cares
 - [ ] Final practice question completed
@@ -117,14 +117,14 @@ Tick a topic only when u can explain the rule and solve at least one basic quest
 
 # 9. BCD adder and subtractor
 
-- [ ] BCD addition procedure
-- [ ] Detecting an invalid BCD sum
-- [ ] Correction condition `K=C4+S3S2+S3S1`
-- [ ] Adding `0110` correction
-- [ ] Multi-digit decimal carry
-- [ ] BCD subtraction using 10's complement
-- [ ] BCD subtraction using 9's complement/end-around carry
-- [ ] BCD adder/subtractor block diagram
+- [x] BCD addition procedure
+- [x] Detecting an invalid BCD sum
+- [x] Correction condition `K=C4+S3S2+S3S1`
+- [x] Adding `0110` correction
+- [x] Multi-digit decimal carry
+- [x] BCD subtraction using 10's complement
+- [x] BCD subtraction using 9's complement/end-around carry
+- [x] BCD adder/subtractor block diagram
 - [ ] Final practice question completed
 
 # 10. flip-flops

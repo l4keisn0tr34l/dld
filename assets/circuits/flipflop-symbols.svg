@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 146" width="300" height="146" font-family="DejaVu Sans, Verdana, sans-serif">
+  <rect x="0" y="0" width="300" height="146" rx="3" fill="#ffffff"/>
+  <rect x="30" y="26" width="58" height="62" rx="3" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+  <text x="59.0" y="102" font-size="7.5" fill="#0f172a" text-anchor="middle" font-weight="bold">D flip-flop</text>
+  <polyline points="18,40 30,40" fill="none" stroke="#334155" stroke-width="1.6"/>
+  <text x="35" y="43.5" font-size="8" fill="#0f172a" text-anchor="start" font-style="italic">D</text>
+  <polyline points="18,57.0 30,57.0" fill="none" stroke="#334155" stroke-width="1.6"/>
+  <path d="M30,52.0 L38,57.0 L30,62.0" fill="none" stroke="#0f172a" stroke-width="1.2"/>
+  <polyline points="88,40 100,40" fill="none" stroke="#334155" stroke-width="1.6"/>
+  <text x="83" y="43.5" font-size="8" fill="#0f172a" text-anchor="end" font-style="italic">Q</text>
+  <polyline points="88,74 100,74" fill="none" stroke="#334155" stroke-width="1.6"/>
+  <text x="83" y="77.5" font-size="8" fill="#0f172a" text-anchor="end" font-style="italic">Q̄</text>
+  <rect x="126" y="26" width="58" height="62" rx="3" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+  <text x="155.0" y="102" font-size="7.5" fill="#0f172a" text-anchor="middle" font-weight="bold">JK flip-flop</text>
+  <polyline points="114,40 126,40" fill="none" stroke="#334155" stroke-width="1.6"/>
+  <text x="131" y="43.5" font-size="8" fill="#0f172a" text-anchor="start" font-style="italic">J</text>
+  <polyline points="114,74 126,74" fill="none" stroke="#334155" stroke-width="1.6"/>
+  <text x="131" y="77.5" font-size="8" fill="#0f172a" text-anchor="start" font-style="italic">K</text>
+  <polyline points="114,57.0 126,57.0" fill="none" stroke="#334155" stroke-width="1.6"/>
+  <path d="M126,52.0 L134,57.0 L126,62.0" fill="none" stroke="#0f172a" stroke-width="1.2"/>
+  <polyline points="184,40 196,40" fill="none" stroke="#334155" stroke-width="1.6"/>
+  <text x="179" y="43.5" font-size="8" fill="#0f172a" text-anchor="end" font-style="italic">Q</text>
+  <polyline points="184,74 196,74" fill="none" stroke="#334155" stroke-width="1.6"/>
+  <text x="179" y="77.5" font-size="8" fill="#0f172a" text-anchor="end" font-style="italic">Q̄</text>
+  <rect x="222" y="26" width="58" height="62" rx="3" fill="#dbeafe" stroke="#1d4ed8" stroke-width="1.5"/>
+  <text x="251.0" y="102" font-size="7.5" fill="#0f172a" text-anchor="middle" font-weight="bold">T flip-flop</text>
+  <polyline points="210,40 222,40" fill="none" stroke="#334155" stroke-width="1.6"/>
+  <text x="227" y="43.5" font-size="8" fill="#0f172a" text-anchor="start" font-style="italic">T</text>
+  <polyline points="210,57.0 222,57.0" fill="none" stroke="#334155" stroke-width="1.6"/>
+  <path d="M222,52.0 L230,57.0 L222,62.0" fill="none" stroke="#0f172a" stroke-width="1.2"/>
+  <polyline points="280,40 292,40" fill="none" stroke="#334155" stroke-width="1.6"/>
+  <text x="275" y="43.5" font-size="8" fill="#0f172a" text-anchor="end" font-style="italic">Q</text>
+  <polyline points="280,74 292,74" fill="none" stroke="#334155" stroke-width="1.6"/>
+  <text x="275" y="77.5" font-size="8" fill="#0f172a" text-anchor="end" font-style="italic">Q̄</text>
+  <text x="150.0" y="124.0" font-size="7.5" fill="#64748b" text-anchor="middle">D, JK ve T flip-floplarının simgeleri. Saat girişindeki üçgen, flip-flopun saatin</text>
+  <text x="150.0" y="134.5" font-size="7.5" fill="#64748b" text-anchor="middle">kenarında tetiklendiğini gösterir.</text>
+</svg>

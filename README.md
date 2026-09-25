@@ -31,6 +31,8 @@ for a timed paper matching last year's style, use [`LAST_YEAR_STYLE_PRACTICE.md`
 
 answers and methods for the chapter questions, both mock papers and backup questions are in [`SOLUTION_KIT.md`](SOLUTION_KIT.md). try to plan each answer before opening it.
 
+labelled web-sourced circuit pictures for the topics through flip-flops are in [`CIRCUIT_DIAGRAMS.md`](CIRCUIT_DIAGRAMS.md).
+
 ## fastest revision order
 
 **number systems → boolean → K-map → combinational circuits → flip-flops → counters/registers**
