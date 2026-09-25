@@ -13,9 +13,9 @@ Tick a topic only when u can explain the rule and solve at least one basic quest
 - [x] 1's and 2's complements
 - [x] 9's and 10's complements
 - [x] Subtraction using complements
-- [ ] Sign-magnitude representation of negative numbers
-- [ ] Signed 1's-complement representation and range
-- [ ] Signed 2's-complement representation, range and overflow
+- [x] Sign-magnitude representation of negative numbers
+- [x] Signed 1's-complement representation and range
+- [x] Signed 2's-complement representation, range and overflow
 - [x] BCD, Excess-3 and Gray codes
 - [x] Binary ↔ Gray conversion
 - [x] Parity basics
@@ -66,40 +66,40 @@ Tick a topic only when u can explain the rule and solve at least one basic quest
 
 # 5. encoder, decoder, MUX and DEMUX — in progress
 
-- [ ] Encoder meaning and truth table
-- [ ] Decoder meaning and truth table
+- [x] Encoder meaning and truth table
+- [x] Decoder meaning and truth table
 - [ ] Implementing a function using a decoder
-- [ ] MUX meaning, truth table and output equation
-- [ ] Implementing a function using a MUX with all variables as selects
+- [x] MUX meaning, truth table and output equation
+- [x] Implementing a function using a MUX with all variables as selects
 - [ ] Implementing a function using a MUX with `n−1` selects and inputs `0,1,X,X'`
-- [ ] DEMUX meaning, truth table and equations
-- [ ] Difference between decoder and DEMUX
-- [ ] Applications of encoder, decoder, MUX and DEMUX
+- [x] DEMUX meaning, truth table and equations
+- [x] Difference between decoder and DEMUX
+- [x] Applications of encoder, decoder, MUX and DEMUX
 - [ ] Full adder/subtractor using MUX, decoder or DEMUX if taught
 - [ ] Final practice question completed
 
 # 6. code converters
 
-- [ ] General design procedure: truth table → K-maps → circuit
-- [ ] BCD-to-Excess-3 converter
-- [ ] Excess-3-to-BCD converter
+- [x] General design procedure: truth table → K-maps → circuit
+- [x] BCD-to-Excess-3 converter
+- [x] Excess-3-to-BCD converter
 - [ ] Binary-to-Gray converter
 - [ ] Gray-to-binary converter
 - [ ] Detecting odd/even values from binary or Gray-code input
-- [ ] 4-bit binary-to-BCD converter
+- [x] 4-bit binary-to-BCD converter
 - [ ] Using invalid code words as don't-cares
 - [ ] Final practice question completed
 
 # 7. magnitude comparator and priority encoder
 
-- [ ] 1-bit magnitude comparator truth table
-- [ ] Equations for `A>B`, `A=B`, `A<B`
-- [ ] 2-bit/multi-bit comparison from MSB first
+- [x] 1-bit magnitude comparator truth table
+- [x] Equations for `A>B`, `A=B`, `A<B`
+- [x] 2-bit/multi-bit comparison from MSB first
 - [ ] Cascading comparators
-- [ ] Need for a priority encoder
-- [ ] 4-to-2 priority-encoder truth table
-- [ ] Priority-encoder output equations
-- [ ] Valid output bit
+- [x] Need for a priority encoder
+- [x] 4-to-2 priority-encoder truth table
+- [x] Priority-encoder output equations
+- [x] Valid output bit
 - [ ] Final practice question completed
 
 # 8. binary adder and subtractor
