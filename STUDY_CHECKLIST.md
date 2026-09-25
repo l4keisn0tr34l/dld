@@ -2,7 +2,7 @@
 
 Tick a topic only when u can explain the rule and solve at least one basic question without notes.
 
-**Current status:** topics 1–4, BCD adder/subtractor and flip-flop conversion are completed; topics 5–8 are mostly done; D/T flip-flops, equations and excitation tables are done. Finish SR/JK basics next. Current cram plan skips registers/counters.
+**Current status:** topics 1–4, BCD adder/subtractor and flip-flop conversion are completed; topics 5–8 are mostly done; all four main flip-flop tables, equations and excitation tables are done. Only a few FF timing/control ideas remain. Current cram plan skips registers/counters.
 
 # 1. number systems, codes and complements ✅
 
@@ -130,8 +130,8 @@ Tick a topic only when u can explain the rule and solve at least one basic quest
 # 10. flip-flops
 
 - [ ] Meaning of clock, present state and next state
-- [ ] SR truth/characteristic table and invalid state
-- [ ] JK truth/characteristic table
+- [x] SR truth/characteristic table and invalid state
+- [x] JK truth/characteristic table
 - [x] D truth/characteristic table
 - [x] T truth/characteristic table
 - [x] Characteristic equations
