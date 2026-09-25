@@ -2,7 +2,7 @@
 
 Tick a topic only when u can explain the rule and solve at least one basic question without notes.
 
-**Current status based on what u told me:** number systems, Boolean algebra, K-maps and tabulation are completed. MUX/DEMUX is in progress.
+**Current status:** topics 1–4 are completed; topic 5 is almost done; topics 6–8 are partially/mostly done; topics 9–14 still need coverage.
 
 # 1. number systems, codes and complements ✅
 
@@ -29,7 +29,7 @@ Tick a topic only when u can explain the rule and solve at least one basic quest
 - [x] Absorption and redundancy/consensus theorem
 - [x] De Morgan's theorems
 - [x] Duality principle
-- [ ] Positive and negative logic, if taught
+- [x] Positive and negative logic, if taught
 - [x] SOP and POS
 - [x] Minterms and maxterms
 - [x] Minimal and canonical forms
@@ -71,11 +71,11 @@ Tick a topic only when u can explain the rule and solve at least one basic quest
 - [ ] Implementing a function using a decoder
 - [x] MUX meaning, truth table and output equation
 - [x] Implementing a function using a MUX with all variables as selects
-- [ ] Implementing a function using a MUX with `n−1` selects and inputs `0,1,X,X'`
+- [x] Implementing a function using a MUX with `n−1` selects and inputs `0,1,X,X'`
 - [x] DEMUX meaning, truth table and equations
 - [x] Difference between decoder and DEMUX
 - [x] Applications of encoder, decoder, MUX and DEMUX
-- [ ] Full adder/subtractor using MUX, decoder or DEMUX if taught
+- [x] Full adder/subtractor using MUX, decoder or DEMUX if taught
 - [ ] Final practice question completed
 
 # 6. code converters
@@ -104,15 +104,15 @@ Tick a topic only when u can explain the rule and solve at least one basic quest
 
 # 8. binary adder and subtractor
 
-- [ ] Half-adder truth table and equations
-- [ ] Full-adder truth table and equations
-- [ ] Full adder using two half adders
+- [x] Half-adder truth table and equations
+- [x] Full-adder truth table and equations
+- [x] Full adder using two half adders
 - [ ] 4-bit ripple-carry/parallel binary adder
-- [ ] Half-subtractor truth table and equations
-- [ ] Full-subtractor truth table and equations
+- [x] Half-subtractor truth table and equations
+- [x] Full-subtractor truth table and equations
 - [ ] 4-bit ripple-borrow binary subtractor
-- [ ] 4-bit parallel adder-subtractor using mode M, XOR gates and full adders
-- [ ] Signed overflow rule
+- [x] 4-bit parallel adder-subtractor using mode M, XOR gates and full adders
+- [x] Signed overflow rule
 - [ ] Final practice question completed
 
 # 9. BCD adder and subtractor
