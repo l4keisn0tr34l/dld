@@ -107,11 +107,11 @@ Tick a topic only when u can explain the rule and solve at least one basic quest
 - [ ] Half-adder truth table and equations
 - [ ] Full-adder truth table and equations
 - [ ] Full adder using two half adders
-- [ ] Ripple-carry/parallel binary adder
+- [ ] 4-bit ripple-carry/parallel binary adder
 - [ ] Half-subtractor truth table and equations
 - [ ] Full-subtractor truth table and equations
-- [ ] Multi-bit binary subtractor
-- [ ] Parallel adder-subtractor using mode M and XOR gates
+- [ ] 4-bit ripple-borrow binary subtractor
+- [ ] 4-bit parallel adder-subtractor using mode M, XOR gates and full adders
 - [ ] Signed overflow rule
 - [ ] Final practice question completed
 
